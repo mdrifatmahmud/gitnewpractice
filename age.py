@@ -1,5 +1,6 @@
 print("Hello")
-a=10
+a=5
 b=2
 print(a)
+c=100
 c=100
