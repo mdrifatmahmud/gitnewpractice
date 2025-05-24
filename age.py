@@ -1,3 +1,4 @@
 print("Hello")
-a=5
+a=10
 b=2
+print(a)
